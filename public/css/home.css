@@ -729,3 +729,31 @@
   right: 30px;
   top: 50px;
 }
+
+/* TV & Home Theatre */
+.selling_product_frame.tv .product_wrapper .product_boxes.tv {
+  position: relative;
+  width: 1290px;
+  height: 452px;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.selling_product_frame.tv .product_boxes .product_box.tv {
+  width: 260px;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.selling_product_frame.tv .product_box .product_img_box.tv {
+  width: 100%;
+  height: 280px;
+}
+
+.container .category_top.tv a {
+  margin: 0 15px;
+}
