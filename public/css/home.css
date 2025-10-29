@@ -1,3 +1,7 @@
+:root {
+  --font: "Jost";
+}
+
 .home_page {
   display: flex;
   flex-direction: column;
